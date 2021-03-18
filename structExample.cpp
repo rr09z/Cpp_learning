@@ -31,7 +31,6 @@ void allocateSpace(struct teacher tarr[], int len)
 		}
 	}
 }
-
 void printInfo(struct teacher tarr[], int len)
 {
 	for (size_t i = 0; i < len; i++)
